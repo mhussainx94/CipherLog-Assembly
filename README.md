@@ -294,17 +294,6 @@ result = subprocess.run(
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| [Your Name] | Assembly programming, encryption logic |
-| [Team Member 2] | Python GUI, project integration |
-| [Team Member 3] | Testing, documentation |
-
-**Course:** Assembly Language Programming
-**Institution:** [Your University Name]
-**Year:** 2026
 
 ---
 
