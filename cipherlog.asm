@@ -1,9 +1,7 @@
 ; ============================================================
 ;  PROJECT   : CipherLog - Encrypted Keylogger
 ;  LANGUAGE  : 32-bit MASM32 Assembly
-;  PLATFORM  : Windows 11 native (no DOSBox needed!)
-;  AUTHOR    : [Your Name]
-;  DATE      : 2026
+
 ; ------------------------------------------------------------
 ;  DESCRIPTION:
 ;  This program combines two cybersecurity concepts:
